@@ -1,0 +1,10 @@
+﻿Name: Allred.LimitLogin
+AntiForgery: enabled
+Author: Rob Allred
+Website: http://roballred.com
+Version: 1.0
+OrchardVersion: 1.10.2
+Description: Description for the module
+Features:
+    Allred.LimitLogin:
+        Description: Limits login attempts.
